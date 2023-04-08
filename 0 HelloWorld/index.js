@@ -3,7 +3,7 @@
 
 // // variable
 // name = 'shitty brain'
-// console.log(name);
+// console.log(name)
 
 // // user input
 // name = prompt('what kind of fruit you ate?')
@@ -12,7 +12,7 @@
 
 // // function
 // function f(d, m, y) {
-//     console.log(d + m + y);
+//     console.log(d + m + y)
 //     alert(m + '/' + d + '/' + y)
 // }
 
