@@ -14,7 +14,6 @@ btn.addEventListener('click', function() {
     for (i=0; i<6; i++) {
         hexColor += colors[randomNumberGenerator()];
     }
-
     document.body.style.backgroundColor = hexColor
     color.textContent = hexColor
 })
