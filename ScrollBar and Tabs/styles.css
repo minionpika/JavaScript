@@ -256,6 +256,9 @@ Fixed Nav
   background: var(--clr-white);
   box-shadow: var(--light-shadow);
 }
+.fixed-nav .nav-header p {
+  color: var(--clr-grey-1);
+}
 .fixed-nav .nav-links a {
   color: var(--clr-grey-1);
 }
